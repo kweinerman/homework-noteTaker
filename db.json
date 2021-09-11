@@ -1,9 +1,12 @@
 [
-  null,
+  1,
   {
     "id": {
       "title": "Test Title",
       "text": "Test text"
     }
+  },
+  {
+    "id": null
   }
 ]
